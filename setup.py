@@ -2,13 +2,13 @@ from distutils.core import setup
 setup(
   name = 'colormate',
   packages = ['colormate'],
-  version = '0.2211',
+  version = '0.2212',
   license='MIT',
   description = 'A package to theme terminal scripts with custom colors and text formatting',
   author = 'Rodrigo',
   author_email = 'roarba011@gmail.com',
   url = 'https://github.com/mrjakesir/themify',
-  download_url = 'https://github.com/MrJakeSir/themify/archive/refs/tags/v_02.zip',
+  download_url = 'https://github.com/MrJakeSir/themify/archive/refs/tags/v_0.1.tar.gz',
   keywords = ['Colors', 'Scripting', 'Theme', 'Theming'],
   classifiers=[
     'Development Status :: 5 - Production/Stable',
