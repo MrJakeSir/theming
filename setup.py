@@ -7,7 +7,7 @@ setup(
   description = 'A package to theme terminal scripts with custom colors and text formatting',
   author = 'Rodrigo',
   author_email = 'roarba011@gmail.com',
-  url = 'https://github.com/mrjakesir/theming',
+  url = 'https://github.com/mrjakesir/themify',
   download_url = 'https://github.com/MrJakeSir/themify/archive/refs/tags/v_01.zip',
   keywords = ['COLORS', 'SCRIPTING', 'THEME', 'THEMING', 'USELESS'],
   classifiers=[
