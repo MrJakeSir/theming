@@ -57,7 +57,7 @@ available methods:
                                                 'm'             + \
                                                 text            + \
                                                 self._no_color  
-    
+        self.get_colors = lambda: list(self._COLORS.keys()) 
         self.bold       = lambda text: self._format(self._INTEGERS['Bold'], text)   
         self.dim        = lambda text: self._format(self._INTEGERS['Dim'], text)   
         self.italic     = lambda text: self._format(self._INTEGERS['Italic'], text)   
