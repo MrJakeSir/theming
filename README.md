@@ -48,7 +48,7 @@ You can also use color names
 ```py
 obj = themify.Theme()
 print(
-    'My colorized color is', 
+    'My colorized text is', 
     obj.colorize(
         'this', 
         fg = 'Blue',
