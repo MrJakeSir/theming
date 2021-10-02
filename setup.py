@@ -8,7 +8,7 @@ setup(
   author = 'Rodrigo',
   author_email = 'roarba011@gmail.com',
   url = 'https://github.com/mrjakesir/theming',
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',
+  download_url = 'https://github.com/MrJakeSir/theming/archive/refs/tags/v_01.zip',
   keywords = ['COLORS', 'SCRIPTING', 'THEME', 'THEMING', 'USELESS'],
   classifiers=[
     'Development Status :: 5 - Production/Stable',
