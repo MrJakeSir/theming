@@ -41,7 +41,7 @@ mythemeobject.colorize(
 # without setting a foreground color first and vice versa
 ```
 
-![FirstExample](https://i.imgur.com/Hc0LxJ1.png)
+![FirstExample](https://i.imgur.com/OtQIm6P.png)
 
 You can also use color names
 
@@ -58,7 +58,7 @@ print(
 
 ```
 
-![NameExample](https://i.imgur.com/Vz6r1du.png)
+![NameExample](https://i.imgur.com/1QuGBCj.png)
 
 As you can see, if you use the color names directly, it will use the colors associated to your terminal, contrary to when
 you set the colors directly with a rgb color
@@ -75,7 +75,7 @@ print(
     )
 )
 ```
-![TupleExample](https://i.imgur.com/lesUImW.png)
+![TupleExample](https://i.imgur.com/qj68FQj.png)
 
 ### Text formatting
 These are the available formmating methods
