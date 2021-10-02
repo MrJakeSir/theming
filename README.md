@@ -67,7 +67,7 @@ You can also use an rgb tuple
 
 ```py
 print(
-    'My colorized color is', 
+    'My colorized text is', 
     obj.colorize(
         'this', 
         fg = (0, 0, 255),
