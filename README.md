@@ -77,6 +77,20 @@ print(
 ```
 ![TupleExample](https://i.imgur.com/lesUImW.png)
 
+### Text formatting
+These are the available formmating methods
+
+```py
+from themify import Theme
+Theme().bold           ("This will return a bold string!")  
+Theme().dim            ("This will return a dim string!") 
+Theme().italic         ("This will return an italic string!") 
+Theme().underlined     ("This will return an underlined string!") 
+Theme().blinking       ("This method [is useless]") 
+Theme().reversed       ("This will reverse background and foreground colors") 
+Theme().invisible      ("This method will return an invisible string so [it is also useless]") 
+```
+
 ### License
 MIT LICENSE
 ```
