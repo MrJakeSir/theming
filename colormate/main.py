@@ -12,7 +12,7 @@ available methods:
     self.blinking       (text: str) 
     self.reversed       (text: str) 
     self.invisible      (text: str) 
-
+    self.get_colors     ()
     self.colorize       (text: str, **kwargs):
     """
     def __init__(self):
