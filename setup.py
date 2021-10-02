@@ -8,7 +8,7 @@ setup(
   author = 'Rodrigo',
   author_email = 'roarba011@gmail.com',
   url = 'https://github.com/mrjakesir/themify',
-  download_url = 'https://github.com/MrJakeSir/themify/archive/refs/tags/v_0.1.tar.gz',
+  download_url = 'https://github.com/MrJakeSir/themify/archive/refs/tags/v_03.tar.gz',
   keywords = ['Colors', 'Scripting', 'Theme', 'Theming'],
   classifiers=[
     'Development Status :: 5 - Production/Stable',
