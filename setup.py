@@ -1,14 +1,14 @@
 from distutils.core import setup
 setup(
-  name = 'theming',
-  packages = ['theming'],
+  name = 'themify',
+  packages = ['themify'],
   version = '0.1',
   license='MIT',
   description = 'A package to theme terminal scripts with custom colors and text formatting',
   author = 'Rodrigo',
   author_email = 'roarba011@gmail.com',
   url = 'https://github.com/mrjakesir/theming',
-  download_url = 'https://github.com/MrJakeSir/theming/archive/refs/tags/v_01.zip',
+  download_url = 'https://github.com/MrJakeSir/themify/archive/refs/tags/v_01.zip',
   keywords = ['COLORS', 'SCRIPTING', 'THEME', 'THEMING', 'USELESS'],
   classifiers=[
     'Development Status :: 5 - Production/Stable',
