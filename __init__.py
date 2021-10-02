@@ -14,4 +14,4 @@ What terminal emulator support true color?
     Check this gist:
         https://gist.github.com/XVilka/8346728#terminals--true-color
 """
-from themify.colormate.colormate import Theme
+from themify.colormate import *
