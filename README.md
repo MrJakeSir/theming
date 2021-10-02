@@ -1,9 +1,9 @@
 
-# Themify
+# colormate
 #### Python script text formatting package
 
-## What is themify?
-Themify is a **python library** that lets you add text formatting to your scripts,
+## What is colormate?
+colormate is a **python library** that lets you add text formatting to your scripts,
 its very easy to use, you can also use hex colors (for example: "#ffffff"), rgb 
 tuples (for example: (255, 255, 255) ), or you can use the name of the color 
 (for example: 'White')
@@ -19,14 +19,14 @@ colors
 
 ## Installaton
 ```bash
-pip install themify
+pip install colormate
 ```
 
 ## Usage
 ```py
-import themify
+import colormate
 
-mythemeobject = themify.Theme()
+mythemeobject = colormate.Theme()
 
 ## Get documentation
 mythemeobject.__doc__
@@ -46,7 +46,7 @@ mythemeobject.colorize(
 You can also use color names
 
 ```py
-obj = themify.Theme()
+obj = colormate.Theme()
 print(
     'My colorized text is', 
     obj.colorize(
@@ -81,7 +81,7 @@ print(
 These are the available formmating methods
 
 ```py
-from themify import Theme
+from colormate import Theme
 Theme().bold           ("This will return a bold string!")  
 Theme().dim            ("This will return a dim string!") 
 Theme().italic         ("This will return an italic string!") 
