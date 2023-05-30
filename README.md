@@ -17,7 +17,7 @@ you can use ``self.get_colors()`` method, which will return a list with all the 
 colors
 
 
-## Installaton
+## Installation
 ```bash
 pip install colormate
 ```
