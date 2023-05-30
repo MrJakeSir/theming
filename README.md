@@ -1,6 +1,6 @@
 
 # colormate
-#### Python script text formatting package
+Python script text formatting package
 
 ## What is colormate?
 colormate is a **python library** that lets you add text formatting to your scripts,
