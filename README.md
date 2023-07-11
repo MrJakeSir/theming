@@ -94,7 +94,7 @@ Theme().invisible      ("This method will return an invisible string so [it is a
 ### License
 MIT LICENSE
 ```
-Copyright (c) 2021 Rodrigo
+Copyright (c) 2021 RODRIGO
 All rights reserved.
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
